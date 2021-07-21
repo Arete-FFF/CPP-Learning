@@ -8,7 +8,7 @@ int main()
 
     int start = 0, end = sizeof(arr) / sizeof(arr[0]) - 1;
 
-    for (; start <= end; start++, end--)
+    for (; start < end; start++, end--)
     {
         int temp = 0;
         temp = arr[start];

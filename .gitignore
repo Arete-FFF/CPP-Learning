@@ -1,2 +1,6 @@
 /*.exe
 /*/*.exe
+/*/Makefile
+/*/.vscode
+/*/*/*.o
+/*/*/*.exe
