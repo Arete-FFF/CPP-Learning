@@ -41,7 +41,9 @@
         "xstring": "cpp",
         "xtr1common": "cpp",
         "ctime": "cpp",
-        "fstream": "cpp"
+        "fstream": "cpp",
+        "vector": "cpp",
+        "algorithm": "cpp"
     },
     "C_Cpp.errorSquiggles": "Enabled"
 }
